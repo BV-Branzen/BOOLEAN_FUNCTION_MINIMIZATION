@@ -48,6 +48,9 @@ endmodule
 
 
 **RTL realization**
+
+
+
 <img width="503" height="489" alt="2im2" src="https://github.com/user-attachments/assets/d1d8fa8d-add1-4d28-8f30-44600d91842f" />
 
 **Output:**
